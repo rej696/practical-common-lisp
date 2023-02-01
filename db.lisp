@@ -1,0 +1,2 @@
+
+((:TITLE "A Bad Album" :ARTIST "A Bad Band" :RATING 1 :RIPPED NIL) (:TITLE "Dark Side of the Moon" :ARTIST "Pink Floyd" :RATING 10 :RIPPED NIL) (:TITLE "A Moon Shaped Pool" :ARTIST "Radiohead" :RATING 10 :RIPPED NIL) (:TITLE "RTJ4" :ARTIST "Run The Jewels" :RATING 9 :RIPPED T) (:TITLE "Nonagon Infinity" :ARTIST "King Gizzard and the Lizard Wizard" :RATING 10 :RIPPED T) (:TITLE "The King of Limbs" :ARTIST "Radiohead" :RATING 9 :RIPPED NIL) (:TITLE "In Rainbows" :ARTIST "Radiohead" :RATING 10 :RIPPED 1) (:TITLE "The Bends" :ARTIST "Radiohead" :RATING 6 :RIPPED NIL)) 
